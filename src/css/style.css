@@ -1,0 +1,18 @@
+/* Custom Styles */
+
+.view-user {
+    display: grid;
+    justify-content: center;
+    margin: 20px;
+}
+
+.view-map {
+   display: flex; 
+   justify-content: center;
+   border: 10px solid lightgrey;
+   margin: 10px;
+}
+
+.button {
+    margin-left: 10px;
+}
