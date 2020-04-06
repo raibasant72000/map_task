@@ -1,5 +1,3 @@
-CORTEVA DSI FRONT END CODE CHALLENGE: Create a simple Mapping Application
-
 TASK:  Create a mapping application using react-map-gl.  The webpack config, package json, and bable presets have been set up for you along with boilerplate index.html and index.js.  Render your app in the container div of the index.html file.  Use index.js as the webpack entry file.
 
 Please note:  this challenge is not meant to take a lot of time.  Qualified candidates should be able to work through this in a few hours.  If for some reason you can not complete a task move on and do what you can.  We will review partial submissions.
